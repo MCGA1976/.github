@@ -1,6 +1,6 @@
 ![Slogan-简体](https://raw.gitmirror.com/MCGA1976/.github/main/img/Slogan-简体.png)
 
-简体中文 | [繁體中文](./README_zh_Hant.md) | [English](./README_en.md)
+简体中文 | [繁體中文](https://github.com/MCGA1976/.github/blob/main/profile/README_zh_Hant.md) | [English](https://github.com/MCGA1976/.github/blob/main/profile/README_en.md)
 <a href="https://discord.com/channels/1223212822679392276" target="_blank"><img src="https://img.shields.io/badge/Discord-0077B5?style=for-the-badge&logo=Discord&logoColor=white" align = "right"/></a>
 <a href="https://explore.transifex.com" target="_blank"><img src="https://img.shields.io/badge/transifex-%23FFFFFF.svg?style=for-the-badge&logo=transifex&logoColor=blue" align = "right"/></a>
 
