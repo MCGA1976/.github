@@ -38,9 +38,11 @@
 
 ### ⚡ 请赞助我
 
-我目前是位在大陆就读的高中生，在课余时间进行翻译工作。(请不要在仓库中提交违法内容，这是为了我的安全)
+[🙏爱发电](https://afdian.net/@MreAt)  USDT(TRC20)：TBMXeUpm8c1T8Z38dXxbtBgA2wJaMHJJqL
 
-[🙏爱发电](https://afdian.net/@MreAt) 为我充电是对我开源工作的最大支持，我将用这笔钱支持我的学业&生活！ **Tips：这些捐款会进入Mr.eAt的个人账户**
+我目前是位在大陆就读的高中生，在课余时间进行翻译工作。(请不要在仓库中提交反动内容，这是为了大陆贡献者的安全)
+
+为我充电是对我开源工作的最大支持，我将用这笔钱支持我的学业&生活！ **Tips：这些捐款会进入Mr.eAt的个人账户**
 
 <p align="center">
   <img src="https://count.getloli.com/get/@MCGA1976">

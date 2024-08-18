@@ -38,9 +38,11 @@ How many developers have supported the Chinese language in the past decades of C
 
 ### ⚡ Plz sponsor me
 
-I am currently a high school student from china, and I do tr. work after school. (Plz don't submit illegal content, for my safety)
+[🙏 Afdian](https://afdian.net/@MreAt)  USDT(TRC20)：TBMXeUpm8c1T8Z38dXxbtBgA2wJaMHJJqL
 
-[🙏 Afdian](https://afdian.net/@MreAt) Sponsoring me is the biggest support for my open source work, and I will use this money to support my studies & life! 
+I am currently a high school student from china, and I do tr. work after school. (Plz don't submit reactionary content,f)
+
+Sponsoring me is the biggest support for my open source work, and I will use this money to support my studies & life! 
 
 **Tips: these donations wiill go to Mr.eAt's personal account**
 
