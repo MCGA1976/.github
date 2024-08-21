@@ -1,0 +1,24 @@
+# EditorConfig 帮助开发人员定义和保持一致性
+# 统一不同编辑器和 IDE 之间的编码风格
+# editorconfig.org
+
+# 应用于整个项目
+root = true
+
+[*]
+# 空格缩进 4
+indent_style = space
+indent_size = 4
+
+#默认移除尾随空白字符- Markdown 除外
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = true
+insert_final_newline = true
+
+[*.{md,markdown}]
+trim_trailing_whitespace = false
+
+#工作流文件缩进2
+[.github/workflows/*.{yaml,yml}]
+indent_size = 2
